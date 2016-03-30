@@ -1,7 +1,7 @@
 name: AusyPlugs
 favicon: null
-layout_spectrum: 0.5448015404399484
-typography_spectrum: 0.7921894586179405
+layout_spectrum: 0.50045
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#000405'
+    - '#695b52'
+    - '#a1938a'
+    - '#860005'
+    - '#e43e53'
   brandStrength: 0.0704132760874927
   lightness: 0.6030253167264163
   saturation: 0.32725933007895947
