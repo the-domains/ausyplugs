@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Ausy Plugs using AI
-datePublished: '2016-03-30T21:23:27.484Z'
-dateModified: '2016-03-30T21:23:23.094Z'
-title: ''
+datePublished: '2016-03-30T21:31:13.600Z'
+dateModified: '2016-03-30T21:31:04.150Z'
+title: Ausy Ceramic Plugs
 author: []
+sourcePath: _posts/2016-03-30-ausy-plugs-using-ai.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-30-ausy-plugs-using-ai.md
-published: true
 url: ausy-plugs-using-ai/index.html
 _type: Article
 
