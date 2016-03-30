@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[AusyPlugs]]></title>
-        <description><![CDATA[AusyPlugs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Handmade Ceramic Flesh Tunnel Plugs]]></title>
+        <description><![CDATA[Handmade Ceramic Flesh Tunnel Plugs]]></description>
+        <link>https://thegrid.ai/ausyplugs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 21:23:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 21:31:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ausyplugs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1de5b89d-fa96-48d2-8c97-3ce2f445b8a1.jpg">]]></description>
-            <link>undefinedausy-plugs-using-ai/index.html</link>
+            <title><![CDATA[Ausy Ceramic Plugs]]></title>
+            <description><![CDATA[<article><h1>Ausy Ceramic Plugs</h1><p>Ausy Plugs using AI</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cc6bae058b20978128fe6c19b95438853f1a1c7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ausyplugs/ausy-plugs-using-ai/index.html</link>
             <guid isPermaLink="false">f92a4147-bb22-40d4-91e0-d642eb5176fb</guid>
-            <pubDate>Wed, 30 Mar 2016 21:23:27 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2016 21:31:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
