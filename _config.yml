@@ -1,7 +1,7 @@
 name: AusyPlugs
 favicon: null
-layout_spectrum: 0.50045
-typography_spectrum: 0
+layout_spectrum: 0.49659
+typography_spectrum: 0.48987
 title: Handmade Ceramic Flesh Tunnel Plugs
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#fbfdfc'
     - '#7c7889'
     - '#8da1ba'
-  brandStrength: 0.0704132760874927
-  lightness: 0.6030253167264163
-  saturation: 0.32725933007895947
-  rhythmicContrast: 0.5780345466919243
+  brandStrength: 0.0625
+  lightness: 0.5
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
