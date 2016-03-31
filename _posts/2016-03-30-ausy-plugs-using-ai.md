@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-31T05:32:25.959Z'
-dateModified: '2016-03-31T05:31:47.222Z'
+datePublished: '2016-03-31T05:41:17.029Z'
+dateModified: '2016-03-31T05:41:13.460Z'
 title: Ausy Plugs using AI
 author: []
 sourcePath: _posts/2016-03-30-ausy-plugs-using-ai.md
