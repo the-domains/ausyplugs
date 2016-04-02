@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "It doesn't have to be..."
-datePublished: '2016-03-31T05:24:20.510Z'
-dateModified: '2016-03-31T05:24:20.033Z'
+description: "It all began many years back.. If you would have told me it's going to take so long I wouldn't have stopped anyway! Closer I get to the end \_better I feel about it, about the efforts and troubles along the way. I take it simply as a nature of process..\_"
+datePublished: '2016-04-02T03:40:13.401Z'
+dateModified: '2016-04-02T03:39:58.707Z'
 title: Who said it was easy?
 author: []
+sourcePath: _posts/2016-03-31-who-said-it-was-easy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-31-who-said-it-was-easy.md
-published: true
 url: who-said-it-was-easy/index.html
 _type: Article
 
